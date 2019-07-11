@@ -1,3 +1,4 @@
+#import "Clipboard.h"
 @implementation Clipboard
 //将文本复制到IOS剪贴板
 - (void)objc_copyTextToClipboard : (NSString*)text
